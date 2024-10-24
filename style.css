@@ -15,7 +15,7 @@ a:focus, a:hover {
 /* the styles for the header */
 header h2 {
 	font-size: 175%;
-	color: var(--global-color-1);
+	color: var(red);
 	text-indent: 30px;
 }
 header h3 {
